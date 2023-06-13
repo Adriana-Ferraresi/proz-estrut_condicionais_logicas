@@ -1,4 +1,4 @@
-# Proz-eatrut_condicionais_lógicas
+# Proz-estrut_condicionais_lógicas
 
 ## Introdução a Programação-Ativ 2_Code Park 2
 
