@@ -1,6 +1,6 @@
 # Proz-estrut_condicionais_lógicas
 
-## Introdução a Programação-Ativ 2_Code Park 2
+## Introdução a programação-Ativ 2_Code Park 2
 
 Desenvolva um código que utilize as seguintes características de um veículo:
 - Quantidade de rodas;
